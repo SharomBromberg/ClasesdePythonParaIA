@@ -5,7 +5,7 @@
 
 Desarrollar un sistema básico de arte generativo utilizando principios de Programación Orientada a Objetos (POO) en Python, aplicando tipado estricto y explicaciones centradas en el porqué de cada concepto.
 
-## Datos del equipo
+## Información del estudiante
 
 - Nombre del estudiante:
 - Fecha:
